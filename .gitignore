@@ -9,6 +9,7 @@ __pycache__/
 
 .gitignore
 .gitattributes
+.DS_Store
 # Distribution / packaging
 .Python
 build/
